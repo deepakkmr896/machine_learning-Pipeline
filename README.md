@@ -1,4 +1,3 @@
-# machine_learning - KMeans Clustering and Elbow Method
-- College data to get some insight data using clustering.
-- KMeans algorithm to cluster the data.
-- Elbow method to find the best K value of the KMeans algorithm.
+# machine_learning - KNN and Elbow Method
+- KNN algorithm to find the prediction of the target class from the unknown variables.
+- Elbow method to find the best K value of the KNN algorithm.
